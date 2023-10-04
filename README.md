@@ -15,8 +15,8 @@
 
 5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Enlace Google")
 
-|:----------------|:-------:|
 |**Aplicaciones** |**Visto**|
+|:----------------|:-------:|
 |Google Docs      |✔|
 |Google Slides    |✔|
 |Google Sheets    |✔|

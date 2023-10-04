@@ -38,3 +38,4 @@
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
+![Imagen A2](https://github.com/MarcNavarroGomez/ASIX1-M4-UF1-A2-Inicio-Markdown-/blob/main/Foto%20Actividad%202.JPG "Titulo opcional de la imagen")

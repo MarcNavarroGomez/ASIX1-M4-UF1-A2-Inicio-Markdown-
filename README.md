@@ -14,14 +14,14 @@
 
 
 5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Enlace Google")
-|Primera Col|Segunda Col|
-|:----------------:|:-------:|
-|**Aplicaciones**|**Visto**|
-|Google Docs|✔|
-|Google Slides|✔|
-|Google Sheets|✔|
-|Google Calendar|📆|
-|Google Meet|💻|
+
+|:----------------|:-------:|
+|**Aplicaciones** |**Visto**|
+|Google Docs      |✔|
+|Google Slides    |✔|
+|Google Sheets    |✔|
+|Google Calendar  |📆|
+|Google Meet      |💻|
 
 6. ¿Qué es HTML ?
 

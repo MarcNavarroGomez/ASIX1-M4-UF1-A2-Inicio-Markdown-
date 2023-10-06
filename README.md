@@ -37,6 +37,8 @@ De esta manera, las herramientas ofimáticas son aquellos programas o aplicacion
     <title>Document</title>
 </head>
 <body>
+
+
 7. ¿Qué es CSS?
 
 CSS, en español «Hojas de estilo en cascada», es un lenguaje de diseño gráfico para definir y crear la presentación de un documento estructurado escrito en un lenguaje de marcado

@@ -29,14 +29,14 @@ De esta manera, las herramientas ofimáticas son aquellos programas o aplicacion
 
 6. ¿Qué es HTML ?
 
-<html>
-    <head>
-    </head>
-    <body>
-        <p>Esto es un HTML</p>
-    <body>
-</html>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
 7. ¿Qué es CSS?
 
 CSS, en español «Hojas de estilo en cascada», es un lenguaje de diseño gráfico para definir y crear la presentación de un documento estructurado escrito en un lenguaje de marcado
